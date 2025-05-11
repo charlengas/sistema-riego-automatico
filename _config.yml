@@ -1,0 +1,7 @@
+title: "Sistema de Riego Automático con Arduino"
+description: "Proyecto de IoT para automatizar el riego de plantas"
+theme: minima
+exclude:
+  - assets/css/style.css  # Evita que el tema lo sobrescriba
+baseurl: "/sistema-riego-automatico"  # Si el repo NO es 'usuario.github.io'
+url: "https://charlengas.github.io"
